@@ -20,7 +20,8 @@ public class Maior {
 	        double maior = Math.max(valor1, Math.max(valor2, valor3));
 
 
-	        System.out.println(maior + " eh o maior");
+	        System.out.println(maior + " é o maior");
+	        System.out.println("Os valores digitados: " + valor1 + valor2 + valor3);
 
 	        soma.close();
 		
